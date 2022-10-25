@@ -5,7 +5,7 @@
         "price": 10.95,
         "description": "HTML stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page. HTML consists of a series of elements. HTML elements tell the browser how to display the content. HTML elements label pieces of content etc.",
         "category": "HTML 5",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fillustrations%2Flogo-html-html5-icon-2582748%2F&psig=AOvVaw25n3GEPUJJhFdLmMhqjLou&ust=1666765739996000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjhybHg-voCFQAAAAAdAAAAABAJ",
+        "image": "https://www.optasy.com/static/html5-reasons-why-your-business-7eaf51b1efbac224a826255f61b1e827.png",
         "rating": {
           "rate": 4.9,
           "count": 110
@@ -17,7 +17,7 @@
         "price": 19.95,
         "description": "CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work. It can control the layout of multiple web pages all at once. External stylesheets are stored in CSS files",
         "category": "CSS",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fillustrations%2Flogo-css-css3-icon-2582747%2F&psig=AOvVaw02KZTi9j8sdRwE7byuKGzk&ust=1666765864129000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjAuOvg-voCFQAAAAAdAAAAABAE",
+        "image": "https://play-lh.googleusercontent.com/ajbmMCoaThQcD4_z-1-6H79M0ItJ1Vz2jW_5yRB_eb1d_Fdzmdci0SPHFfujQj23n-Q=w240-h480-rw",
         "rating": {
           "rate": 4.8,
           "count": 120
@@ -29,7 +29,7 @@
         "price": 10.5,
         "description": "JavaScript is a programming language that adds interactivity to your website. This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms; with dynamic styling; with animation, etc. This article helps you get started with JavaScript and furthers your understanding of what is possible. JavaScript is versatile and beginner-friendly. With more experience, you'll be able to create games, animated 2D and 3D graphics, comprehensive database-driven apps, and much more!",
         "category": "javascript",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techcentral.ie%2Fjavascript-specification-gets-official-thumbs-up%2F&psig=AOvVaw1_9MjQPXiNDWGeJHeJ1Cg9&ust=1666766421234000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDl3PXi-voCFQAAAAAdAAAAABAE",
+        "image": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg",
         "rating": {
           "rate": 4.4,
           "count": 130
@@ -37,11 +37,11 @@
       },
     {
         "id": 4,
-        "title": "",
+        "title": "What React?",
         "price": 29.5,
-        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-        "category": "men's clothing",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dreact&psig=AOvVaw1RzbmvJW8RVj_P-vh5gSJ7&ust=1666766659290000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPD_8ubj-voCFQAAAAAdAAAAABAE",
+        "description": "Props stand for properties. Props are passed to components like function arguments. Props can be passed to components only via parent to child. Props data is immutable (read-only). A state can be modified based on user action or network changes. Every time the state of an object changes, React re-renders the component to the browser. The state object is initialized in the constructor. The state object can store multiple properties. this.setState() is used to change the value of the state object. setState() function performs a shallow merge between the new and the previous state",
+        "category": "React Js",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2Y2gmQB5zuaBd1AfN_AyEgoTgxPF65i7GwlvrbnnP_RUlubieG19WFnonCtS4ZfAox4&usqp=CAU",
         "rating": {
           "rate": 4.5,
           "count": 140
@@ -49,11 +49,11 @@
       },
     {
         "id": 5,
-        "title": "",
+        "title": "What is Express Js?",
         "price": 39.9,
-        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-        "category": "men's clothing",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Ffree%2Fexpressjs.html&psig=AOvVaw1RKsu62XMZKvVkeFu49cjE&ust=1666766792393000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCJzKbk-voCFQAAAAAdAAAAABAE",
+        "description": "Express is a minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications. It facilitates the rapid development of Node based Web applications. Following are some of the core features of Express framework. Installing Express npm install express --save",
+        "category": "Express Js",
+        "image": "https://buttercms.com/static/images/tech_banners/ExpressJS.png",
         "rating": {
           "rate": 4.8,
           "count": 150
@@ -61,11 +61,11 @@
       },
     {
         "id": 6,
-        "title": "",
+        "title": "Learn MongoDB",
         "price": 49.5,
-        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-        "category": "men's clothing",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logistica360.pe%2Fperu-el-80-de-nuestras-exportaciones-dependen-de-las-materias-primas%2Fs%25C3%25BAt%2520h%25E1%25BB%258Fng%2520kh%25C3%25B3%2520tin%2520khi%2520Liverpool%2520thua%2520%25C4%2591%25E1%25BA%25ADm%2520M.%3Fen%3D5.6.2730402.6.29.38.mongodb%2Blogo&psig=AOvVaw2LugpZeUa4dTDDxDy2wwEg&ust=1666766898413000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLikgNnk-voCFQAAAAAdAAAAABAE",
+        "description": "Explain what a NoSQL database is. Describe the common types of NoSQL databases and their major features. Explain what MongoDB is and the advantages of using it. Articulate how a document-oriented database is structured and the way MongoDB stores data. Explain the importance of data modeling and the primary ways to model data in MongoDB. Create and use indexes in MongoDB to improve the efficiency of your queries. Explain the benefits and use cases of MongoDB Atlas, as well as set up your very own atlas cluster.",
+        "category": "MongoDB",
+        "image": "https://www.howtogeek.com/wp-content/uploads/csit/2021/07/f5932bc2.jpg?height=200p&trim=2,2,2,2",
         "rating": {
           "rate": 4.9,
           "count": 160
