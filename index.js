@@ -17,7 +17,7 @@ app.get('/programming-languages/:id', (req, res) => {
   const id = req.params.id;
   const tutorialCategory = categories.find(c => c.id == id)
   res.send(tutorialCategory)
-  console.log(req.params);
+  // console.log(req.params);
 })
 
 app.listen(port, () => {
