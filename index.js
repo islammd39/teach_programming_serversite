@@ -13,6 +13,12 @@ app.get('/', (req, res) => {
 app.get('/programming-languages', (req, res) => {
   res.send(categories) 
 })
+app.get('/programming-languages/:id', (req, res) => {
+  const id = req.params.id;
+  const tutorialCategory = categories.find(c => c.id == id)
+  res.send(tutorialCategory)
+  console.log(req.params);
+})
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
