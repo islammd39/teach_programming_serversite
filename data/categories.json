@@ -1,14 +1,75 @@
 [
     {
         "id": 1,
-        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-        "price": 109.95,
-        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-        "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "title": "What do you mean by HTML5?",
+        "price": 10.95,
+        "description": "HTML stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page. HTML consists of a series of elements. HTML elements tell the browser how to display the content. HTML elements label pieces of content etc.",
+        "category": "HTML 5",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fillustrations%2Flogo-html-html5-icon-2582748%2F&psig=AOvVaw25n3GEPUJJhFdLmMhqjLou&ust=1666765739996000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjhybHg-voCFQAAAAAdAAAAABAJ",
         "rating": {
-          "rate": 3.9,
+          "rate": 4.9,
+          "count": 110
+        }
+      },
+    {
+        "id": 2,
+        "title": "What is CSS?",
+        "price": 19.95,
+        "description": "CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work. It can control the layout of multiple web pages all at once. External stylesheets are stored in CSS files",
+        "category": "CSS",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fillustrations%2Flogo-css-css3-icon-2582747%2F&psig=AOvVaw02KZTi9j8sdRwE7byuKGzk&ust=1666765864129000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjAuOvg-voCFQAAAAAdAAAAABAE",
+        "rating": {
+          "rate": 4.8,
           "count": 120
         }
+      },
+    {
+        "id": 3,
+        "title": "What is JavaScript?",
+        "price": 10.5,
+        "description": "JavaScript is a programming language that adds interactivity to your website. This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms; with dynamic styling; with animation, etc. This article helps you get started with JavaScript and furthers your understanding of what is possible. JavaScript is versatile and beginner-friendly. With more experience, you'll be able to create games, animated 2D and 3D graphics, comprehensive database-driven apps, and much more!",
+        "category": "javascript",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techcentral.ie%2Fjavascript-specification-gets-official-thumbs-up%2F&psig=AOvVaw1_9MjQPXiNDWGeJHeJ1Cg9&ust=1666766421234000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDl3PXi-voCFQAAAAAdAAAAABAE",
+        "rating": {
+          "rate": 4.4,
+          "count": 130
+        }
+      },
+    {
+        "id": 4,
+        "title": "",
+        "price": 29.5,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dreact&psig=AOvVaw1RzbmvJW8RVj_P-vh5gSJ7&ust=1666766659290000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPD_8ubj-voCFQAAAAAdAAAAABAE",
+        "rating": {
+          "rate": 4.5,
+          "count": 140
+        }
+      },
+    {
+        "id": 5,
+        "title": "",
+        "price": 39.9,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Ffree%2Fexpressjs.html&psig=AOvVaw1RKsu62XMZKvVkeFu49cjE&ust=1666766792393000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCJzKbk-voCFQAAAAAdAAAAABAE",
+        "rating": {
+          "rate": 4.8,
+          "count": 150
+        }
+      },
+    {
+        "id": 6,
+        "title": "",
+        "price": 49.5,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logistica360.pe%2Fperu-el-80-de-nuestras-exportaciones-dependen-de-las-materias-primas%2Fs%25C3%25BAt%2520h%25E1%25BB%258Fng%2520kh%25C3%25B3%2520tin%2520khi%2520Liverpool%2520thua%2520%25C4%2591%25E1%25BA%25ADm%2520M.%3Fen%3D5.6.2730402.6.29.38.mongodb%2Blogo&psig=AOvVaw2LugpZeUa4dTDDxDy2wwEg&ust=1666766898413000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLikgNnk-voCFQAAAAAdAAAAABAE",
+        "rating": {
+          "rate": 4.9,
+          "count": 160
+        }
       }
+
 ]
